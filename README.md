@@ -8,5 +8,5 @@ This is the first(I think?) self correcting algorithm. Although this is the simp
 
 ### You can learn about it here:
 
-wiki - https://en.wikipedia.org/wiki/Hamming_code \n
-3Blue1brown's series about it - https://www.youtube.com/watch?v=X8jsijhllIA \n
+wiki - https://en.wikipedia.org/wiki/Hamming_code<br/> 
+3Blue1brown's series about it - https://www.youtube.com/watch?v=X8jsijhllIA<br/>
